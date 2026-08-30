@@ -6,24 +6,29 @@ Construyo y despliego sistemas de IA dentro del negocio: me siento con el área 
 con el cliente, entiendo el proceso real, y entrego algo que funciona con sus datos
 sucios y sus casos borde. No diapositivas — sistemas en producción.
 
-Estudiante de Actuaría en el ITAM. Trabajo en telecomunicaciones, retail y banca.
+Estudiante de Actuaría en el ITAM. Trabajo con clientes de telecomunicaciones,
+retail y banca en México.
 
 ---
 
 ### En qué trabajo
 
 **Agentes de IA en producción.** Un bot de voz para portabilidad telefónica
-(LiveKit + VICIdial) atendiendo llamadas reales, y campañas conversacionales sobre
-RCS con IA, medidas en campo contra su tasa de lectura y de respuesta.
+(LiveKit + VICIdial) atendiendo llamadas reales en un centro de contacto, con
+medición de conversión en campo. Campañas conversacionales sobre RCS con IA para
+**Bait** y para los **Charros de Jalisco**, medidas contra tasa de lectura y de
+respuesta reales — no contra la promesa del proveedor.
 
-**Analítica que decide.** Rentabilidad por sucursal para la red de tiendas de un
-retailer nacional: break-even, modelos estocásticos y el gate de cierres. Casos de
-negocio de operadores móviles virtuales (MVNO) auditados hasta el flujo después de
-impuestos, no el de la lámina.
+**Analítica que decide.** Rentabilidad por sucursal para la red de tiendas
+**Bait (Walmart)**: break-even, modelos estocásticos y el criterio de cierres.
+Casos de negocio de MVNO para **Tiendas Neto** y **Farmacias Similares**,
+auditados hasta el flujo después de impuestos, no el de la lámina. Máquina de
+adquisición para una tarjeta de crédito de **BBVA**.
 
-**Herramientas internas que la gente usa.** Homologador de catálogos de obra contra
-el tabulador oficial de la CDMX, en producción. Dashboards ejecutivos de mensajería
-A2P. Pipelines de datos sobre el punto de venta.
+**Herramientas internas que la gente usa.** Homologador de catálogos de obra
+contra el tabulador oficial de la **CDMX**, en producción. Dashboards ejecutivos
+de mensajería A2P (SMS/RCS) para revisión con cliente. Pipelines de datos sobre
+el punto de venta.
 
 **Ingeniería del entorno de trabajo con IA.** Lo de abajo.
 
