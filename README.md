@@ -36,7 +36,7 @@ el punto de venta.
 
 ### Kit Chema — estándar de calidad para Claude Code, medido
 
-[![Kit Chema](https://img.shields.io/badge/kit--chema-v1.15-1f6e8c)](https://github.com/chemaw8/claude-kit-chema)
+[![Kit Chema](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchemaw8%2Fclaude-kit-chema%2Fmain%2F.claude-plugin%2Fplugin.json&query=%24.version&label=kit-chema&prefix=v&color=1f6e8c)](https://github.com/chemaw8/claude-kit-chema)
 [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-3a7a51)](https://github.com/chemaw8/claude-kit-chema/blob/main/LICENSE)
 [![En español](https://img.shields.io/badge/idioma-espa%C3%B1ol-a9631f)](https://github.com/chemaw8/claude-kit-chema)
 
@@ -51,7 +51,7 @@ La mayoría de los "kits" para agentes son prosa bien redactada que nadie verifi
 | El estado sobrevive entre sesiones | Contrato de reanudación con ancla de git; la rotación verifica **línea por línea** que nada se pierde |
 | Sabe cuándo **no** hacer algo | Cinco propuestas de mejora medidas y **descartadas** en vez de acumuladas |
 
-→ **[github.com/chemaw8/claude-kit-chema](https://github.com/chemaw8/claude-kit-chema)** · núcleo de reglas + 9 skills de dominio + 3 subagentes + council · en español
+→ **[github.com/chemaw8/claude-kit-chema](https://github.com/chemaw8/claude-kit-chema)** · núcleo de reglas + 9 skills de dominio + 4 subagentes + 5 hooks + council · en español
 
 ---
 
